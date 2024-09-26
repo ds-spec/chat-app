@@ -15,3 +15,7 @@ body {
 ::-webkit-scrollbar {
   display: none;
 }
+
+img.dot {
+  width: 15px !important;
+}
